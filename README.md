@@ -1,4 +1,119 @@
-# Synkro-Plane
-Synkro RC aircraft project: lightweight, stable platform optimized for FPV flight. This document contains plans, electronics, configurations, and improvements for the model, aimed at achieving maximum performance with accessible components.
+# ✈️ SYNKRO PLANE – RC Aircraft with FPV
 
-we will update this in some days to include our logbook, sckemes and planning, for now, were using a foam plane from aliexpress and some scratch!
+Experimental fixed-wing UAV for testing, learning, and development.
+
+---
+
+## 📌 Overview
+
+**SYNKRO-PLANE** is an experimental fixed-wing RC aircraft project developed for educational, testing, and prototyping purposes, integrating FPV (First Person View) and low-cost electronic components.
+
+The main objective is learning by building: basic aerodynamics, flight control, electronics, digital manufacturing, and iterative testing.
+
+This repository documents the entire process: design decisions, technical choices, failures, improvements, and results.
+
+---
+
+## Project Goals
+
+- Design and build a functional RC aircraft from scratch/Easy to find materials  
+- Integrate a stable FPV system  
+- Perform real flight tests and document them  
+- Apply basic aeronautical engineering principles  
+- Develop a reproducible and scalable platform  
+
+---
+
+## Key Features
+
+- Configuration: high-wing, tractor motor  
+- Conventional RC control  
+- FPV-ready architecture  
+- Lightweight structure (foam, cardboard, or 3D-printed parts depending on version)  
+- Modular design for easy repairs and upgrades  
+
+---
+
+## FPV System
+
+- Analog FPV camera  
+- Video transmitter (VTX)  
+- Dedicated or shared power supply (depending on iteration)  
+- Intended for test flights and first-person visualization  
+
+> FPV is used strictly for experimental purposes and in compliance with local regulations (visual observer / line-of-sight when required).
+
+---
+
+## Electronics
+
+Typical system components (may vary between iterations):
+
+- Brushless motor  
+- ESC  
+- Propeller (e.g. 8040 during initial tests)  
+- Servos for:
+  - Elevator  
+  - Rudder / ailerons (depending on configuration)  
+- RC receiver (≤10 channels)  
+- LiPo battery  
+- Independent FPV system  
+
+---
+
+## Design Philosophy
+
+SYnKRO is not a commercial model. It is a flying laboratory.
+
+Every failure is data. Every break is part of the process.
+
+Core principles:
+
+- Rapid iteration  
+- Low cost  
+- Repairability  
+- Honest documentation (including mistakes)  
+
+---
+
+## Project Status
+
+**Actively under development**
+
+- Initial flight tests completed  
+- Structural repairs documented  
+- 3D-printed propeller testing performed  
+- Aerodynamic optimization in progress  
+- Progressive FPV integration  
+
+---
+
+## Logbook
+
+All progress, tests, failures, and technical decisions are recorded in the project logbook available in this repository.
+
+Includes:
+
+- Structural changes  
+- Test results  
+- Identified issues  
+- Applied solutions  
+
+---
+# ⚠️ Disclaimer
+
+This project is experimental.
+It is not intended for transport, commercial use, or autonomous operations outside controlled environments.
+
+The author assumes no responsibility for misuse of the design or information provided.
+
+---
+
+# Authors
+Santiago Gonzalez R (AKA Choisaint) Mechatronic Engineering student
+## Repository Structure
+
+/docs        → Documentation and logbook
+/models      → 3D models and printable parts
+/electronics → Diagrams and configurations
+/media       → Photos and test videos
