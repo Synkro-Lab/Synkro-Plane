@@ -111,6 +111,8 @@ The author assumes no responsibility for misuse of the design or information pro
 
 # Authors
 Santiago Gonzalez R (AKA Choisaint) Mechatronic Engineering student
+Miguel Angel G (AKA Mag) Electronic Engineering student
+Diego Moreno O (AKA Serper) Mechatronic Engineering Student
 ## Repository Structure
 
 /docs        → Documentation and logbook
