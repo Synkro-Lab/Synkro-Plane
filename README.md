@@ -94,7 +94,7 @@ All progress, tests, failures, and technical decisions are recorded in the proje
 
 Includes:
 
-- Structural changes  
+- Structural changes we´re using foamboard for the final model
 - Test results  
 - Identified issues  
 - Applied solutions  
