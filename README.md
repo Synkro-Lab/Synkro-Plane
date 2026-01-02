@@ -1,8 +1,10 @@
 # ✈️ SYNKRO PLANE – RC Aircraft with FPV
 
 Experimental fixed-wing UAV for testing, learning, and development.
-![Plane Photo](foto%20plane.jpeg)
-NOTE: this black design IS NOT the final, its a test developed by Choisaint to make sure the dimensions and calculations were right, this desing is NOT ours, it belongs to Joyplanes, you can search them chanel on YT or their model aircraft courses in their web
+<div align="center">
+  <img src="foto%20plane.jpeg" width="800"/>
+</div>
+NOTE: this black design IS NOT the final one, we´re working on ours, its a test developed by Choisaint to make sure the dimensions and calculations were right, this desing is NOT ours, it belongs to Joyplanes, you can search their channel on YT or their model aircraft courses in their web
 
 ---
 
