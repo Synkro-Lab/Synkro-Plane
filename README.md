@@ -53,15 +53,17 @@ This repository documents the entire process: design decisions, technical choice
 
 Typical system components (may vary between iterations):
 
-- Brushless motor  
-- ESC  
+- Brushless motor 1400kv 2212
+- ESC  30 A
 - Propeller (e.g. 8040 during initial tests)  
 - Servos for:
   - Elevator  
   - Rudder / ailerons (depending on configuration)  
 - RC receiver (≤10 channels)  
 - LiPo battery  
-- Independent FPV system  
+- Independent FPV system
+- ESP 32 CAM
+- MPU 6050
 
 ---
 
