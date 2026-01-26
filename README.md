@@ -96,7 +96,7 @@ Core principles:
 
 ## Logbook
 
-All progress, tests, failures, and technical decisions are recorded in the project logbook available in this repository.
+All progress, tests, failures, and technical decisions are recorded in the project logbook available in this repository, if the file is'nt upluaded yet, you can acces via this link: https://drive.google.com/drive/folders/1aMv75DrKq4YkoV1hUuUochrm9Nf7i5RS?usp=sharing.
 
 Includes:
 
