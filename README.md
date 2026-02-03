@@ -4,7 +4,7 @@ Experimental fixed-wing UAV for testing, learning, and development.
 <div align="center">
   <img src="foto%20plane.jpeg" width="800"/>
 </div>
-NOTE: this black design IS NOT the final one, we´re working on ours, its a test developed by Choisaint to make sure the dimensions and calculations were right, this desing is NOT ours, it belongs to Joyplanes, you can search their channel on YT or their model aircraft courses in their web
+NOTE: this black design IS NOT the final one, we´re working on ours, its a test developed by Choisaint to make sure the dimensions and calculations were right, this desing is NOT ours, it belongs to Joyplanes, you can search their channel on YT or their model aircraft courses in their web.
 
 ---
 
@@ -24,7 +24,8 @@ This repository documents the entire process: design decisions, technical choice
 - Integrate a stable FPV system  
 - Perform real flight tests and document them  
 - Apply basic aeronautical engineering principles  
-- Develop a reproducible and scalable platform  
+- Develop a reproducible and scalable platform
+- (currently we are back to the university, that means this would not be able to uptate frequently, do not worry, this still in progress)
 
 ---
 
