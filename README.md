@@ -104,7 +104,10 @@ Includes:
 - Structural changes we´re using foamboard for the final model
 - Test results  
 - Identified issues  
-- Applied solutions  
+- Applied solutions
+- videos
+- photos
+- first conceptual try with a foam aliexpress plane
 
 ---
 # ⚠️ Disclaimer
