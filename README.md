@@ -112,7 +112,7 @@ Includes:
 ---
 # ⚠️ Disclaimer
 
-This project is experimental.
+This project is experimental. Still work in progress
 It is not intended for transport, commercial use, or autonomous operations outside controlled environments.
 
 The author assumes no responsibility for misuse of the design or information provided.
