@@ -55,22 +55,23 @@ This repository documents the entire process: design decisions, technical choice
 Typical system components (may vary between iterations):
 
 - Brushless motor 1400kv 2212
-- ESC  30 A
-- Propeller (e.g. 8040 during initial tests)  
+- ESC  40 A
+- Propeller 9050 (e.g. 8040 during initial tests)  
 - Servos for:
   - Elevator  
   - Rudder / ailerons (depending on configuration)  
 - RC receiver (≤10 channels)  
-- LiPo battery  
+- LiPo battery 2200 mah
 - Independent FPV system
 - ESP 32 CAM
+- Raspberry pi pico
 - MPU 6050
 
 ---
 
 ## Design Philosophy
 
-SYnKRO is not a commercial model. It is a flying laboratory.
+Synkro Kestrel is not a commercial model. It is a flying laboratory.
 
 Every failure is data. Every break is part of the process.
 
