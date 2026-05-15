@@ -1,4 +1,4 @@
-# ✈️ SYNKRO PLANE – RC Aircraft with FPV
+# ✈️ SYNKRO PLANE - Kestrel – RC Aircraft with FPV
 
 Experimental fixed-wing UAV for testing, learning, and development.
 <div align="center">
