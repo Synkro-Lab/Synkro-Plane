@@ -87,7 +87,7 @@ fb = framebuf.FrameBuffer(LOGO, 128, 64, framebuf.MONO_HLSB)
 oled.fill(0)
 oled.blit(fb, 0, 0)
 oled.show()
-time.sleep_ms(2500)
+time.sleep_ms(3000)
 
 # ── Funciones MPU6050 ───────────────────────────────────────────
 def leer_raw(reg):
