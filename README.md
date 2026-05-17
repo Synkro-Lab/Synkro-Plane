@@ -2,7 +2,7 @@
 
 Experimental fixed-wing UAV for testing, learning, and development.
 <div align="center">
-  <img src="foto%20plane.jpeg" width="800"/>
+  <img src="FOTOS\foto%20plane.jpeg" alt="Black fixed wing RC plane model on a light surface with visible wing structure and mounted FPV camera, showing a focused experimental setup" width="800"/>
 </div>
 NOTE: this black design IS NOT the final one, we´re working on ours, its a test developed by Choisaint to make sure the dimensions and calculations were right, this desing is NOT ours, it belongs to Joyplanes, you can search their channel on YT or their model aircraft courses in their web.
 
