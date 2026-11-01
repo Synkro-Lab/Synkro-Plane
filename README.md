@@ -97,10 +97,10 @@ Core principles:
  
 ## Flight Test Results – Flight 17
 
-![Gráfica del vuelo 17](GRAFICASCSV/log_017_detalle.png)
-![Gráfica del vuelo 17](GRAFICASCSV/log_017_resumen.png)
+![Gráfica del vuelo 17](GRAFICASCSV/graficas/log_017_detalle.png)
+![Gráfica del vuelo 17](GRAFICASCSV/graficas/log_017_resumen.png)
 
-📄 [Log completo del vuelo 17](Logs%26data/log_17.csv)
+📄 [Log completo del vuelo 17](GRAFICASCSV/log_017.csv)
 
 ---
 
