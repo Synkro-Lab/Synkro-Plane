@@ -516,7 +516,7 @@ static bool dht22_read(float& hum, float& temp) {
     uint8_t d[5] = {0, 0, 0, 0, 0};
     gpio_set_dir(PIN_DHT22, GPIO_OUT);
     gpio_put(PIN_DHT22, 0);
-    sleep_ms(2);
+    sleep_ms(20);
     uint32_t irq = save_and_disable_interrupts();
     gpio_put(PIN_DHT22, 1);
     busy_wait_us(30);
@@ -530,9 +530,8 @@ static bool dht22_read(float& hum, float& temp) {
     }
     restore_interrupts(irq);
     if (!ok || ((d[0] + d[1] + d[2] + d[3]) & 0xFF) != d[4]) return false;
-    hum  = ((d[0] << 8) | d[1]) / 10.0f;
-    temp = (((d[2] & 0x7F) << 8) | d[3]) / 10.0f;
-    if (d[2] & 0x80) temp = -temp;
+    hum  = d[0] + d[1] * 0.1f;
+    temp = d[2] + d[3] * 0.1f;
     return true;
 }
 

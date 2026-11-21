@@ -1,4 +1,7 @@
 archivo,formato,filas,duracion_s,hz_medio,hueco_max_ms,huecos_mayores_50ms,lecturas_fallidas_pct,eventos_config,pico_acel_g,t_pico_s,pico_sostenido_g,pico_giro_dps,acel_reposo_g,lecturas_basura,ax_az_cero_pct,muestras_saturadas,tramo_escala_corregida_s,hum_min,hum_max,temp_min,temp_max,evento_t0_s,evento_t1_s
+log_004.csv,completo,93,0.9,101.1,10.0,0,0.0,0,1.33,0.75,1.1,33.0,,0,0.0,0,0.0,,,,,0.0,0.9
+log_005.csv,completo,13699,137.3,99.8,286.0,1,0.15,0,5.41,51.14,3.57,1079.0,1.008,0,0.0,51,0.0,42.7,43.4,29.1,29.7,101.4,120.9
+log_006.csv,completo,2053,21.3,96.2,830.0,1,0.0,0,1.28,9.73,1.16,92.0,1.006,0,0.0,0,0.0,42.6,43.5,29.7,29.7,14.4,21.3
 log_012.csv,completo,9702,97.6,99.4,616.0,1,0.22,0,9.92,17.63,4.58,1023.0,0.998,0,0.0,15,0.0,45.5,71.1,22.8,24.5,9.9,24.7
 log_013.csv,completo,3622,36.2,100.0,10.0,0,0.0,0,1.82,10.06,1.03,4.0,1.006,0,0.0,0,0.0,46.6,71.9,25.8,26.4,6.8,13.3
 log_014.csv,completo,1085,10.8,100.1,10.0,0,0.0,0,1.41,9.22,1.32,166.0,,0,0.0,0,0.0,47.8,52.7,24.1,24.3,1.7,10.8
